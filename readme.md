@@ -4,6 +4,14 @@ SMTP Plugin
 This plugin adds SMTP email integration to Kuusamo.
 
 
+Installation
+------------
+
+Install into your project using Composer.
+
+    composer require kuusamo/plugin-smtp
+
+
 Usage
 -----
 
