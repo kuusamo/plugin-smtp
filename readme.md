@@ -1,6 +1,11 @@
 SMTP Plugin
 ===========
 
+[![Latest Stable Version](https://poser.pugx.org/kuusamo/plugin-smtp/v)](//packagist.org/packages/kuusamo/plugin-smtp)
+[![Total Downloads](https://poser.pugx.org/kuusamo/plugin-smtp/downloads)](//packagist.org/packages/kuusamo/plugin-smtp)
+[![License](https://poser.pugx.org/kuusamo/plugin-smtp/license)](//packagist.org/packages/kuusamo/plugin-smtp)
+[![Build Status](https://app.travis-ci.com/kuusamo/plugin-smtp.svg?branch=master&status=passed)](https://app.travis-ci.com/github/kuusamo/plugin-smtp)
+
 This plugin adds SMTP email integration to Kuusamo.
 
 
